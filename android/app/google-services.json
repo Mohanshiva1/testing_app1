@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718531023480",
+    "firebase_url": "https://rules-checking-default-rtdb.firebaseio.com",
+    "project_id": "rules-checking",
+    "storage_bucket": "rules-checking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718531023480:android:5a96b2b515badeb64b538d",
+        "android_client_info": {
+          "package_name": "com.example.testing_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718531023480-irbne35311ia5kdhukp8e6sgaevgp5gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rrEVUFfSzCoXcekAhbn5v0v1xrjLNHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718531023480-irbne35311ia5kdhukp8e6sgaevgp5gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
